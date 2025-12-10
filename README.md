@@ -2,6 +2,7 @@
 
 **Equipe:**
 - Caio Cesar da Silva Martins
+- Vinicius Dantheias Barroso
 
 Este projeto implementa um simulador de rede P2P não estruturada com quatro algoritmos de busca:
 
